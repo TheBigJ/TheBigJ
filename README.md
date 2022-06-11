@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBigJ
 - 👀 I’m building web based complex softwares using java micro services and related technologies.
-- 🌱 Python, Javascript, event based micro services,kafka streams, mongo.
+- 🌱 Java, J2EE,Python, Javascript, event based micro services,kafka streams, mongo.
 - 💞️ I’m looking to collaborate on ...
 - 📫 abhijeetmarch29@gmail.com
 
